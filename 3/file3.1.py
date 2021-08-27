@@ -1,0 +1,10 @@
+a = 'aaaa kkkk ffff gggg 5555'
+print(a)
+print(a.startswith('a'))
+print(a.endswith('a'))
+print(a.split('k f'))
+print(a.center(2120))
+print(a.title())
+print(a.strip("ffff"))
+print(a.isalpha())
+print(a.isdigit())
